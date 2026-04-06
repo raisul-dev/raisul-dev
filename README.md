@@ -11,8 +11,8 @@ Hi! I'm **Raisul Islam**, a passionate Flutter & full-stack developer.
 ---
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/18CaJTcshH/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nx0339w)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/18CaJTcshH)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nx0339w)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raisulislam101/)  
 
 ---
@@ -35,13 +35,11 @@ Hi! I'm **Raisul Islam**, a passionate Flutter & full-stack developer.
 ---
 
 ## 📊 GitHub Stats
-![Raisul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raisul-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Raisul's Streak Stats](https://nirzak-streak-stats.vercel.app/?user=raisul-dev&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raisul-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Raisul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raisul-dev&theme=dark&show_icons=true)  
+![Raisul's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=raisul-dev&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raisul-dev&theme=dark&layout=compact)
 
 ---
 
 ## 📈 Visitor Count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=raisul-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://profile-counter.glitch.me/raisul-dev/count.svg)
