@@ -1,12 +1,14 @@
 # 💫 About Me
-Hi! I'm **Raisul Islam**, a passionate Flutter & full-stack developer.  
+Hi! I'm **Raisul Islam** — a dedicated **App & Software Developer** building real-world apps that people love. 🚀  
 
-- 🔭 I’m currently working on **mobile & web apps using Flutter and Firebase**  
-- 👯 I’m looking to collaborate on **innovative app projects & AI/ML integration**  
-- 🤝 I’m looking for help with **learning advanced cloud architecture & AI tools**  
-- 🌱 I’m currently learning **advanced Flutter, Python AI projects, and Firebase optimization**  
-- 💬 Ask me about **app development, Flutter, Python, or tech in general**  
-- ⚡ Fun fact: I love **turning creative ideas into real apps**  
+I specialize in **Flutter**, **Python**, and **Firebase**, and I enjoy bringing creative project ideas to life.
+
+- 🔭 I’m currently working on **mobile & web apps using Flutter & Firebase**  
+- 👯 I’m looking to collaborate on **innovative app projects & startup ideas**  
+- 🤝 I’m looking for help with **advanced cloud and AI/ML integrations**  
+- 🌱 I’m currently learning **scalable backend systems & AI implementation**  
+- 💬 Ask me about **app development, UI/UX design, Flutter, Firebase, or Python**  
+- ⚡ Fun fact: I write code while listening to lo-fi beats 🎧
 
 ---
 
@@ -23,7 +25,6 @@ Hi! I'm **Raisul Islam**, a passionate Flutter & full-stack developer.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -35,11 +36,14 @@ Hi! I'm **Raisul Islam**, a passionate Flutter & full-stack developer.
 ---
 
 ## 📊 GitHub Stats
-![Raisul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raisul-dev&theme=dark&show_icons=true)  
-![Raisul's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=raisul-dev&theme=dark)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raisul-dev&theme=dark&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raisul-dev&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raisul-dev&theme=dark&layout=compact)
 
 ---
 
 ## 📈 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/raisul-dev/count.svg)
+
+---
